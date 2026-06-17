@@ -1,0 +1,23 @@
+# Data — 대용량 원본 파일 제외
+data/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+test.ipynb
+
+# MLflow
+mlruns/
+
+# macOS
+.DS_Store
+
+# 환경 변수
+.env
