@@ -87,9 +87,9 @@ Databricks Workflows DAG:
 
 ### MLflow 실험 결과
 
-![ML 실험 결과](screenshots/bike_ml.png)
+![ML 실험 결과](screenshots/bike_ml2.png)
 
-![MLflow 이상치 제거 실험](screenshots/bike_ml2.png)
+![MLflow 이상치 제거 실험](screenshots/bike_ml.png)
 
 | Run | MAE | RMSE | 비고 |
 |---|---|---|---|
